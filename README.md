@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**diogo-nm/diogo-nm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estou cursando o **5º termo de Análise e Desenvolvimento de Sistemas** na **Toledo Prudente**.
+  
+- ⚡ Meus hobbies são praticar esportes e culinária.
 
-Here are some ideas to get you started:
+## 🚀 O que estou aprendendo:
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap
+- **Backend**: PHP, Python (Flask, FastAPI)
+- **Banco de Dados**: MySQL, PostgreSQL
+  
+<br/>
+<a href="https://github.com/diogo-nm">
+<img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-nm&layout=compact&langs_count=7&theme=react" /></a>
+<br/>
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Se você tem dicas ou quer trocar ideias sobre desenvolvimento de software, não hesite em me contatar! 😊
+
+---
+
+🔗 **Conecte-se comigo**:
+- [LinkedIn](https://www.linkedin.com/in/diogo-machado-b7684b355/)
+- [Instagram](https://www.instagram.com/diogo_nm02/)
